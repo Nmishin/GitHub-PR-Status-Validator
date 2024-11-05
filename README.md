@@ -1,4 +1,4 @@
-# GitHub-PR-Status-Validator
+## GitHub PR status validator
 Detects force-merged pull requests by checking both status checks and check runs on the merge and last commits, ensuring all required checks passed before merging.
 
 Example of how to use the script:
