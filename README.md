@@ -41,6 +41,7 @@ The script will output a list of PRs that were force-merged without meeting all 
 Explanation
 The script:
 
-Checks each closed PR in the specified repository.
-Outputs warnings for any PRs that were force-merged without passing all required checks, along with PR details.
+1. Checks each closed PR in the specified repository.
+2. Outputs warnings for any PRs that were force-merged without passing all required checks, along with PR details.
+
 This makes it easy to audit any PRs merged without meeting all requirements.
